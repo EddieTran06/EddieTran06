@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **mental health**
 
-- 👨‍💻 All of my projects are available at [my head](my head)
+- 👨‍💻 All of my projects are available at **in my head**
 
 - 💬 Ask me about **none**
 
