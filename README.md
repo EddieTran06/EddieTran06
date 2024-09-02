@@ -1,21 +1,9 @@
 <h1 align="center">Hi 👋, I'm Eddie</h1>
 <h3 align="center">GG Get help</h3>
 
-- 🔭 I’m currently working on **nothing**
+- 🔭 I’m currently working on **Final Project**
 
 - 🌱 I’m currently learning **coding**
-
-- 👯 I’m looking to collaborate on **dishwasher**
-
-- 🤝 I’m looking for help with **mental health**
-
-- 👨‍💻 All of my projects are available at **in my head**
-
-- 💬 Ask me about **none**
-
-- 📫 How to reach me **don't call me**
-
-- ⚡ Fun fact **don't take this seriously**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
